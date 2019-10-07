@@ -13,12 +13,6 @@ ul {
 	padding: 5px 15px;
 	margin-top: 0;
 }
-li {
-	padding: 10px 20px;
-	font-size: 14pt;
-	font-family: 'Merriweather', serif;
-	letter-spacing: 5px;
-}
 a {
 	text-decoration: none;
 	color: #eee;
@@ -48,4 +42,11 @@ p {
 .intro {
 	margin: 0 0 0 0;
     padding-right: 0px;
+}
+
+.headers {
+    padding: 10px 20px;
+    font-size: 14pt;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 5px;
 }
